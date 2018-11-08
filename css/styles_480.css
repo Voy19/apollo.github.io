@@ -1,0 +1,77 @@
+@media only screen and (max-width: 480px) {
+  .information_symbol {
+    display: none; }
+  h2 {
+    font-size: 27px; }
+  header .information p {
+    font-size: 13px;
+    padding: 0 10px;
+    margin: 10px 0; }
+  .name .container .name_information {
+    margin-top: 10px;
+    width: 100%; }
+    .name .container .name_information h2::before {
+      display: none; }
+    .name .container .name_information p {
+      text-align: center; }
+    .name .container .name_information .name__icons {
+      margin-top: 30px; }
+      .name .container .name_information .name__icons ul {
+        justify-content: center; }
+        .name .container .name_information .name__icons ul li a {
+          width: 40px;
+          height: 40px; }
+          .name .container .name_information .name__icons ul li a i {
+            font-size: 18px; }
+  .carousel {
+    height: 200px; }
+    .carousel .slider {
+      height: 200px; }
+      .carousel .slider .item {
+        height: 200px; }
+      .carousel .slider #prev img,
+      .carousel .slider #next img {
+        width: 40%; }
+      .carousel .slider #prev {
+        left: 15px; }
+      .carousel .slider #next {
+        right: 15px; }
+  .slider-2 {
+    height: 200px; }
+    .slider-2 .container {
+      height: 200px;
+      margin: 0;
+      padding: 0;
+      width: 100%; }
+      .slider-2 .container .owl-carousel {
+        height: 200px;
+        width: 100%; }
+        .slider-2 .container .owl-carousel .owl-prev img,
+        .slider-2 .container .owl-carousel .owl-next img {
+          width: 30px;
+          height: 30px; }
+        .slider-2 .container .owl-carousel .owl-prev {
+          left: 10px; }
+        .slider-2 .container .owl-carousel .owl-next {
+          right: 10px; }
+        .slider-2 .container .owl-carousel .center .qwe {
+          height: 200px; }
+        .slider-2 .container .owl-carousel .qwe {
+          height: 200px; }
+  footer .container {
+    padding: 0;
+    margin: 0;
+    width: 100%; }
+    footer .container .wrap {
+      width: 100%; }
+      footer .container .wrap .form_block {
+        margin-top: 15px; }
+        footer .container .wrap .form_block .form .name__surname input {
+          width: calc(100% - 20px);
+          padding: 10px;
+          font-size: 13px; }
+        footer .container .wrap .form_block .form .message {
+          width: calc(100% - 20px); }
+          footer .container .wrap .form_block .form .message textarea {
+            height: 70px;
+            padding: 10px; } }

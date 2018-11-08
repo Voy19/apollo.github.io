@@ -1,0 +1,122 @@
+@media only screen and (max-width: 992px) {
+	body {
+		font-size: 16px;
+	}
+	
+	h2 {
+		font-size: 40px;
+	}
+	
+	.information_symbol {
+		height: 50px;
+	}
+	
+
+	header {
+
+		.container {
+	
+			.menu {
+									
+				.sub-menu {
+					right: 12%;
+				}
+			}
+		}
+	}
+
+	.name {
+
+		.container {
+
+			.name_photo {
+				width: 40%;
+			}
+
+			.name_information {
+				width: 60%;
+
+				h2 {
+		
+					&::before {
+						width: 60px;
+					}
+				}
+			}
+		}
+	}
+
+	.carousel {
+		height: 400px;
+					
+		.slider {
+			height: 400px;
+
+			.item {
+				height: 400px;
+			}
+				
+			#prev {
+							
+				img {
+					width: 70%;
+				}
+			}
+	
+			#next {
+
+				img {
+					width: 70%;
+				}
+			}
+		}
+	}
+
+	.enim {
+		height: 70vh;
+
+		.container {
+			height: 70vh;
+
+			.enim_information {
+				width: 42%;
+			}
+		
+			.enim_photo {
+				width: 54%;
+			}
+		}
+	}
+
+	.slider-2 {
+		
+		.container {
+			height: 400px;
+
+			.owl-carousel {
+				height: 300px;
+
+				.center {
+					
+					.qwe {
+						height: 300px;
+					}
+				}
+		
+				.qwe {
+					height: 250px;
+				}
+			}
+		}
+	}
+
+	footer {
+		
+		.container {
+
+			.wrap {
+				width: 70%;
+			}
+		}
+	}
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    src: url('FontAwesome5FreeRegular.eot');
+    src: url('FontAwesome5FreeRegular.eot?#iefix') format('embedded-opentype'),
+        url('FontAwesome5FreeRegular.woff2') format('woff2'),
+        url('FontAwesome5FreeRegular.woff') format('woff'),
+        url('FontAwesome5FreeRegular.ttf') format('truetype'),
+        url('FontAwesome5FreeRegular.svg#FontAwesome5FreeRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

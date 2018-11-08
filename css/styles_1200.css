@@ -1,0 +1,19 @@
+@media only screen and (max-width: 1200px) {
+  .carousel {
+    height: 500px; }
+    .carousel .slider {
+      height: 500px; }
+      .carousel .slider .item {
+        height: 500px; }
+      .carousel .slider #prev img {
+        width: 70%; }
+      .carousel .slider #next img {
+        width: 70%; }
+  .slider-2 .container {
+    height: 450px; }
+    .slider-2 .container .owl-carousel {
+      height: 350px; }
+      .slider-2 .container .owl-carousel .center .qwe {
+        height: 350px; }
+      .slider-2 .container .owl-carousel .qwe {
+        height: 300px; } }

@@ -1,0 +1,43 @@
+@media only screen and (max-width: 992px) {
+  body {
+    font-size: 16px; }
+  h2 {
+    font-size: 40px; }
+  .information_symbol {
+    height: 50px; }
+  header .container .menu .sub-menu {
+    right: 12%; }
+  .name .container .name_photo {
+    width: 40%; }
+  .name .container .name_information {
+    width: 60%; }
+    .name .container .name_information h2::before {
+      width: 60px; }
+  .carousel {
+    height: 400px; }
+    .carousel .slider {
+      height: 400px; }
+      .carousel .slider .item {
+        height: 400px; }
+      .carousel .slider #prev img {
+        width: 70%; }
+      .carousel .slider #next img {
+        width: 70%; }
+  .enim {
+    height: 70vh; }
+    .enim .container {
+      height: 70vh; }
+      .enim .container .enim_information {
+        width: 42%; }
+      .enim .container .enim_photo {
+        width: 54%; }
+  .slider-2 .container {
+    height: 400px; }
+    .slider-2 .container .owl-carousel {
+      height: 300px; }
+      .slider-2 .container .owl-carousel .center .qwe {
+        height: 300px; }
+      .slider-2 .container .owl-carousel .qwe {
+        height: 250px; }
+  footer .container .wrap {
+    width: 70%; } }

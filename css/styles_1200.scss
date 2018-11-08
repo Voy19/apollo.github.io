@@ -1,0 +1,51 @@
+@media only screen and (max-width: 1200px) {
+   .carousel {
+      height: 500px;
+
+      .slider {
+         height: 500px;
+
+         .item {
+            height: 500px;
+         }
+
+         #prev {
+
+            img {
+               width: 70%;
+            }
+         }
+
+         #next {
+
+            img {
+               width: 70%;
+            }
+         }
+      }
+   }
+
+   .slider-2 {
+		
+		.container {
+			height: 450px;
+
+			.owl-carousel {
+				height: 350px;
+
+				.center {
+					
+					.qwe {
+						height: 350px;
+					}
+				}
+		
+				.qwe {
+					height: 300px;
+				}
+			}
+		}
+	}
+
+   
+}
